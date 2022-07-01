@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d5baf5fa472ede524f848c2cdd490c5c",
+    "revision": "6085631905e50edda4bc7066d9cc52a0",
     "url": "https://rohansingh3121.github.io/csb-611m8u/index.html"
   },
   {
-    "revision": "e34a5502d867040868d7",
-    "url": "https://rohansingh3121.github.io/csb-611m8u/static/css/2.3661fc73.chunk.css"
+    "revision": "898b71dc908d025b7282",
+    "url": "https://rohansingh3121.github.io/csb-611m8u/static/css/2.1ebb0010.chunk.css"
   },
   {
-    "revision": "e369877baba483f66c78",
+    "revision": "ccff227a019c705837e3",
     "url": "https://rohansingh3121.github.io/csb-611m8u/static/css/main.63d69f3f.chunk.css"
   },
   {
-    "revision": "e34a5502d867040868d7",
+    "revision": "898b71dc908d025b7282",
     "url": "https://rohansingh3121.github.io/csb-611m8u/static/js/2.a00bcadf.chunk.js"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://rohansingh3121.github.io/csb-611m8u/static/js/2.a00bcadf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e369877baba483f66c78",
-    "url": "https://rohansingh3121.github.io/csb-611m8u/static/js/main.72da774d.chunk.js"
+    "revision": "ccff227a019c705837e3",
+    "url": "https://rohansingh3121.github.io/csb-611m8u/static/js/main.5e9154dc.chunk.js"
   },
   {
     "revision": "8293d9897e09621e614e",
