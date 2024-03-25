@@ -1,2 +1,2 @@
-# my-website-2
-Created by Rohan
+# csb-611m8u - My Portfolio Website
+Created by Rohan Singh
