@@ -12,6 +12,7 @@ const Me = () => {
     description3,
     description4,
     description5,
+    description6,
     instagramId,
   } = userData;
   let desc1, desc2, desc3, desc4, desc5;
@@ -25,6 +26,7 @@ const Me = () => {
     desc3 = JSON.parse(localStorage.getItem("userData"))["description3"];
     desc4 = JSON.parse(localStorage.getItem("userData"))["description4"];
     desc5 = JSON.parse(localStorage.getItem("userData"))["description5"];
+    desc6 = JSON.parse(localStorage.getItem("userData"))["description6"];
     myDescription =
       (desc1 == "" || desc1 == null) &&
       (desc2 == "" || desc2 == null) &&
@@ -44,7 +46,8 @@ const Me = () => {
       (description2 == "" || description2 == null) &&
       (description3 == "" || description3 == null) &&
       (description4 == "" || description4 == null) &&
-      (description5 == "" || description5 == null)
+      (description5 == "" || description5 == null) &&
+      (description6 == "" || description6 == null)
         ? myDescription
         : [
             description1,
@@ -52,6 +55,7 @@ const Me = () => {
             description3,
             description4,
             description5,
+            description6,
           ];
   }
   const [instaProfilePic, setInstaProfilePic] = useState("");
