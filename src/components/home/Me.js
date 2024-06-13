@@ -15,7 +15,7 @@ const Me = () => {
     description6,
     instagramId,
   } = userData;
-  let desc1, desc2, desc3, desc4, desc5;
+  let desc1, desc2, desc3, desc4, desc5, desc6;
   let myDescription = [];
 
   instaLink = "https://www.instagram.com/";
@@ -32,9 +32,10 @@ const Me = () => {
       (desc2 == "" || desc2 == null) &&
       (desc3 == "" || desc3 == null) &&
       (desc4 == "" || desc4 == null) &&
-      (desc5 == "" || desc5 == null)
+      (desc5 == "" || desc5 == null) &&
+      (desc6 == "" || desc6 == null)
         ? myDescription
-        : [desc1, desc2, desc3, desc4, desc5];
+        : [desc1, desc2, desc3, desc4, desc5, desc6];
     instagramId =
       JSON.parse(localStorage.getItem("userData"))["instagramId"] == null ||
       JSON.parse(localStorage.getItem("userData"))["instagramId"] == ""
