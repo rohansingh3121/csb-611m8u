@@ -2,7 +2,7 @@ let userData = {
   firstName: "Rohan",
   lastName: "Singh",
   headline:
-    "Software Engineer with over 2 years of experience at Deloitte, specializing in web development with full-time work experience in REST APIs, ReactJS, Angular, Node.js, TypeScript, .NET, C#, Python, SQL, Azure, Redis Cache, and more.",
+    "Software Engineer with over 2.1 years of experience at Deloitte, specializing in web development with full-time work experience in REST APIs, ReactJS, Angular, Node.js, TypeScript, .NET, C#, Python, SQL, Azure, Redis Cache, and more.",
   linkedinId: "rohansingh3121",
   githubId: "rohansingh3121",
   instagramId: null,
@@ -10,7 +10,7 @@ let userData = {
   twitterId: "rohansingh3121",
   mediumId: null,
   description1  :
-    "👋 Hi there! I'm Rohan Singh, a Software Engineer at Deloitte with over 2 years of experience in web development. I hold a 🎓 B.Tech. in Computer Science & Engineering from KIIT University, where I graduated with a strong academic record.",
+    "👋 Hi there! I'm Rohan Singh, a Software Engineer at Deloitte with over 2.1 years of experience in web development. I hold a 🎓 B.Tech. in Computer Science & Engineering from KIIT University, where I graduated with a strong academic record.",
   description2:
     "💻 As a competitive coder and experienced developer, I am proficient in Python, ReactJS, SQL, and machine learning. My expertise extends to a wide range of technologies including Angular, Node.js, TypeScript, .NET, C#, Redis Cache, and cloud computing with Azure. At Deloitte, I lead the development and implementation of scalable solutions that have significantly enhanced platform performance and user interface experiences for our clients. Notable achievements include a 📉 65% reduction in manual data analysis effort through automation and a 📈 30% improvement in data processing efficiency via a comprehensive dashboard.",
   description3:
@@ -72,15 +72,23 @@ let userData = {
     [
       "Software Engineer I",
       "Deloitte",
-      "Jun 2022 - Present",
+      "Jun 2023 - Present",
+      "Hyderabad, Telangana",
+      [
+        "Led the development of a comprehensive data extraction and visualization dashboard for a major merger & acquisition services firm, achieving a 30% improvement in data processing and client reporting efficiency.",
+        "Engineered an automated data analysis and extraction pipeline utilizing OpenAI, ReactJS, and .NET, resulting in a 65% reduction in manual effort for the client.",
+        "Implemented advanced algorithms to optimize data processing tasks, significantly reducing computation time by 40%.",
+        "Designed and implemented cloud-based solutions using Azure, optimizing resource allocation and reducing operational costs by 20%, and enhanced CI/CD pipelines using Azure DevOps, resulting in a 50% reduction in deployment time and increased release frequency."
+      ],
+    ],
+    [
+      "Analyst",
+      "Deloitte",
+      "Jun 2022 - May 2023",
       "Hyderabad, Telangana",
       [
         "Spearheaded the development and implementation of scalable solutions to enhance platform performance and UI experience, leading to a 15% increase in efficiency for a top-tier client in the audit sector.",
-        "Engineered an automated data analysis and extraction pipeline utilizing OpenAI, ReactJS, and .NET, resulting in a 65% reduction in manual effort for the client.",
-        "Led the development of a comprehensive data extraction and visualization dashboard for a major merger & acquisition services firm, achieving a 30% improvement in data processing and client reporting efficiency.",
-        "Implemented advanced algorithms to optimize data processing tasks, significantly reducing computation time by 40%.",
         "Actively engaged with clients to gather requirements, provide technical insights, and ensure alignment of project deliverables with business objectives.",
-        "Designed and implemented cloud-based solutions using Azure, optimizing resource allocation and reducing operational costs by 20%, and enhanced CI/CD pipelines using Azure DevOps, resulting in a 50% reduction in deployment time and increased release frequency."
       ],
     ],
     [
