@@ -2,7 +2,7 @@ let userData = {
   firstName: "Rohan",
   lastName: "Singh",
   headline:
-    "Software Engineer with over 2.3 years of experience at Deloitte, specializing in web development with full-time work experience in REST APIs, ReactJS, Angular, Node.js, TypeScript, .NET, C#, Python, SQL, Azure, Redis Cache, and more.",
+    "Software Engineer with over 2.5 years of experience at Deloitte, specializing in web development with full-time work experience in REST APIs, ReactJS, Angular, Node.js, TypeScript, .NET, C#, Python, SQL, Azure, Redis Cache, and more.",
   linkedinId: "rohansingh3121",
   githubId: "rohansingh3121",
   instagramId: null,
@@ -10,7 +10,7 @@ let userData = {
   twitterId: "rohansingh3121",
   mediumId: null,
   description1  :
-    "👋 Hi there! I'm Rohan Singh, a Software Engineer at Deloitte with over 2.3 years of experience in web development. I hold a 🎓 B.Tech. in Computer Science & Engineering from KIIT University, where I graduated with a strong academic record.",
+    "👋 Hi there! I'm Rohan Singh, a Software Engineer at Deloitte with over 2.5 years of experience in web development. I hold a 🎓 B.Tech. in Computer Science & Engineering from KIIT University, where I graduated with a strong academic record.",
   description2:
     "💻 As a competitive coder and experienced developer, I am proficient in Python, ReactJS, SQL, and machine learning. My expertise extends to a wide range of technologies including Angular, Node.js, TypeScript, .NET, C#, Redis Cache, and cloud computing with Azure. At Deloitte, I lead the development and implementation of scalable solutions that have significantly enhanced platform performance and user interface experiences for our clients. Notable achievements include a 📉 65% reduction in manual data analysis effort through automation and a 📈 30% improvement in data processing efficiency via a comprehensive dashboard.",
   description3:
@@ -18,7 +18,7 @@ let userData = {
   description4:
     "🔍 During my internship at HighRadius, I contributed to an AI-based Invoice Management System for B2B operations, predicting payment dates using advanced Python libraries. This experience honed my skills in deploying code with Docker containers and monitoring automated models to deliver performance enhancements for various clients.",
   description5:
-    "📜 I hold multiple certifications, including Microsoft Certified: Azure AI Engineer Associate, Microsoft Certified: Azure Developer Associate and MTA Certified: Cloud Fundamentals. My commitment to excellence has been recognized with several awards, including the 🏆 Deloitte Applause Award, 🏅 Deloitte Spot Award, and the 🥇 HighRadius Team of the Year Award.",
+    "📜 I hold multiple certifications, including Microsoft Certified: Azure AI Engineer Associate, Microsoft Certified: Azure Developer Associate and MTA Certified: Cloud Fundamentals. My commitment to excellence has been recognized with several awards, including the 🏆Deloitte Applause Award, 🏆Deloitte Spot Award and 🥇HighRadius Team of the Year Award and 🏅HighRadius HighFlyer Star Team Award.",
   description6:
     "📬 Let's connect and explore opportunities in the ever-evolving tech landscape. Feel free to reach me at: \n✉️ rohansingh3121@gmail.com",
   githubRepos: null,
