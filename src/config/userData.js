@@ -20,7 +20,7 @@ let userData = {
   description5:
     "📜 I hold multiple certifications, including Microsoft Certified: Azure AI Engineer Associate, Microsoft Certified: Azure Developer Associate and MTA Certified: Cloud Fundamentals. My commitment to excellence has been recognized with several awards, including the 🏆Deloitte Applause Award, 🏆Deloitte Spot Award and 🥇HighRadius Team of the Year Award and 🏅HighRadius HighFlyer Star Team Award.",
   description6:
-    "📬 Let's connect and explore opportunities in the ever-evolving tech landscape. Feel free to reach me at: \n✉️ rohansingh3121@gmail.com",
+    "📬 Let's connect and explore opportunities in the ever-evolving tech landscape. Feel free to reach me at: \n✉️ rohansinghcareers@gmail.com",
   githubRepos: null,
   skills:
     "JavaScript, C#, Python, SQL, Angular, ReactJS, NodeJS, .Net, SQL Server, Redis Cache, TypeScript, Visual Studio, VS Code, Azure, Azure DevOps, Docker, Git & Github, Numpy, Pandas, Scipy, Matplotlib, Seaborn, Plotly, Tensorflow, Scikit-learn, etc.",
